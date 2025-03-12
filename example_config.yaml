@@ -1,0 +1,9 @@
+postgres:
+  user: "userpostgres"
+  dbname: "nama_db"
+  password: "password"
+
+redis:
+  addr: "localhost:6379"
+  password: ""
+  db: 0
